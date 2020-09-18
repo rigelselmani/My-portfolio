@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 38px;
+    line-height: 24px;
+    color: #777777;
+    /* background-image: url("../images/header.jpeg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #e2eff8;
+  }
+
+  .first-section{
+    max-width: 40%;
+    margin: 40px 0 0 20px;
+    float: left;
+    font-size:40px;
+    letter-spacing: 1px;
+    color: #3b6978;
+  }
+
+  h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #0f4c75;
+    margin-bottom:20px;
+    font-size:40px;
+  }
+  .focus{
+    color:#1b262c;
+    margin-top:0px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .web{
+    color: #1b262c;
+    font-size: 30px;
+    margin:0 0 10px 0;
+  }
+  p {
+    margin-bottom: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    color:#0f4c75;
+  }
+  .technical{
+    margin-bottom:10px;
+    color:#0f4c75;
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .skills-list{
+    margin-top:0;
+  }
