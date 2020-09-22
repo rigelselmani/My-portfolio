@@ -4,11 +4,13 @@ import Contact from "./Contact";
 import Projects from "./projects"
 
 function App(){
-    return <section className="first-section">
-               <Info />
-               <Contact />
-               <Projects />
-           </section>
+    return  <div>
+                <section className="first-section">
+                   <Info />
+                   <Contact />
+                </section>
+                    <Projects />
+            </div>
 }
 
 export default App;
