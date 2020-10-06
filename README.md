@@ -1,3 +1,5 @@
+Click the link to open the project (https://blooming-spire-24702.herokuapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
