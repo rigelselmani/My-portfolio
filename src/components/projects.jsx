@@ -16,7 +16,7 @@ function projects(){
         <a href="https://rigelselmani.github.io/To-Do-List/" target="_blank"><img src={require('../images/to-do.jpg')} /></a>
       </div>
       <div className="work">
-        <a href="https://rigelselmani.github.io/TriviaGame/" target="_blank"><img src={require('../images/quiz.jpg')} /></a>
+        <a href="https://glacial-eyrie-21309.herokuapp.com/" target="_blank"><img src={require('../images/note.jpg')} /></a>
       </div>
       <div className="work">
         <a href="https://secret-dawn-47186.herokuapp.com/" target="_blank"><img src={require('../images/friend.jpg')} /></a>
