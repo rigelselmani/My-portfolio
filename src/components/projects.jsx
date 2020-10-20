@@ -7,7 +7,7 @@ function projects(){
         <a href="https://rigelselmani.github.io/WEATHER/" target="_blank"><img src="https://i1.wp.com/www.learnesl.net/wp-content/uploads/2018/03/BigStock-Weather-Forecast-1-678x381.jpg" /></a>
       </div>
       <div className="work">
-        <a href="https://rigelselmani.github.io/Word-Scape/" target="_blank"><img src={require('../images/logo.png')} /></a>
+        <a href="https://murmuring-springs-09719.herokuapp.com/" target="_blank"><img src={require('../images/logo.png')} /></a>
       </div>
       <div className="work">
         <a href="https://movie-search-react1.herokuapp.com/" target="_blank"><img src={require('../images/movie-search.png')} /></a>
