@@ -7,7 +7,7 @@ body {
   /* background-image: url("../images/header.jpeg"); */
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #e2eff8;
+  background-color: #fff;
 }
 
 .first-section{
@@ -50,30 +50,32 @@ p {
 .skills-list{
   margin-top:0;
 }
-#contact {
-  margin-top: 30px;
+.info-section{
   color:#0f4c75;
+  box-shadow: 1px 2px 6px 0.1px rgba(187, 184, 184, 0.5);
+  border-radius: 5px;
+  border:2px solid rgb(248, 247, 247);
+  width:70%;
 }
-.contact{
-  margin-bottom:60px;
+h6{
+  font-family: 'Roboto', sans-serif;
+  margin:20px 10px 20px 20px;
 }
-.number {
-  position: absolute;
-  margin: -45px 0 0 0;
-  color:#0f4c75;
-  font-size:22px;
-}
-.img-contact{
-  height:90px;
-  width:14%;
-  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
-  transition: box-shadow 1s, transform 1s;
-  margin-right:7px;
-}
-.img-contact:hover{
-  transform: translate(1px,3px);
-  cursor: pointer;
-}
+.contact-text{
+   color:rgb(63,81,181);
+   display: inline-block;
+   padding:0px 25px 0px 25px;
+   text-align: center;
+  }
+  a{
+    color:rgb(63,81,181);
+    height: 10px;
+    width:10px;
+  }
+  .contact-p{
+    font-size: 13px;
+    margin-top:10px;
+  }
 .second-section{
   float: right;
   max-width: 45%;
