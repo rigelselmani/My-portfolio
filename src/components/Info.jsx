@@ -11,23 +11,23 @@ function Info(){
             <div id="contact">
               <h6 className="contact">Links and Contact Info</h6>
               <div className="contact-text">
-                <a href="mailto:rigelrigelselmani@hotmail.com" target="_blank" rel="noopener noreferrer"><i class="fas fa-envelope"></i></a>
+                <a className="contact-icon" href="mailto:rigelrigelselmani@hotmail.com" target="_blank" rel="noopener noreferrer"><i className="fas fa-envelope"></i></a>
                 <p className="contact-p">email</p>
               </div>
               <div className="contact-text">
-                <a href="tel:703-870-6927" rel="noopener noreferrer"><i class="fas fa-phone-alt"></i></a>
+                <a className="contact-icon" href="tel:703-870-6927" rel="noopener noreferrer"><i className="fas fa-phone-alt"></i></a>
                 <p className="contact-p">phone</p>
               </div>
               <div className="contact-text">
-                <a href="https://drive.google.com/file/d/1X8oPIKDtYQ8k8Z219SmFaa7uRPbm1vEg/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="far fa-file"></i></a>
+                <a className="contact-icon" href="https://drive.google.com/file/d/1X8oPIKDtYQ8k8Z219SmFaa7uRPbm1vEg/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i className="far fa-file"></i></a>
                 <p className="contact-p">ressume</p>
               </div>
               <div className="contact-text">
-                <a href="https://www.linkedin.com/in/rigel-selmani-504705177/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a>
+                <a className="contact-icon" href="https://www.linkedin.com/in/rigel-selmani-504705177/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"></i></a>
                 <p className="contact-p">linkedin</p>
               </div>
               <div className="contact-text">
-                <a href="https://github.com/rigelselmani" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+                <a className="contact-icon" href="https://github.com/rigelselmani" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
                 <p className="contact-p">github</p>
               </div> 
             </div>
